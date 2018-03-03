@@ -4,7 +4,7 @@
   "description": "Add some jazz to your JSON files",
   "main": "index.js",
   "engines": {
-    "node": "^4.0.0"
+    "node": ">=4.0.0"
   },
   "scripts": {
     "test": "tape test/**/*.js",
